@@ -1,1 +1,1 @@
-# <u>**Jack Daniels & Jackpot**</u> | Digital Technologies 1.1 Assessment.
+# *Jack Daniels & Jackpot* | Digital Technologies 1.1 Assessment.
