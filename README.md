@@ -1,2 +1,1 @@
-# 1.1
-The source code of my 3d game made in C#, Unity.
+# <u>**Jack Daniels & Jackpot**</u> | Digital Technologies 1.1 Assessment.
